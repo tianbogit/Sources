@@ -1,0 +1,12 @@
+E:\SourceCode\Question\Score\obj\Debug\ImportTool.csprojResolveAssemblyReference.cache
+E:\SourceCode\Question\Score\obj\Debug\ImportTool.Form1.resources
+E:\SourceCode\Question\Score\obj\Debug\Score.Properties.Resources.resources
+E:\SourceCode\Question\Score\obj\Debug\ImportTool.csproj.GenerateResource.Cache
+E:\SourceCode\Question\Score\obj\Debug\Score.exe
+E:\SourceCode\Question\Score\obj\Debug\Score.pdb
+E:\SourceCode\Question\Score\bin\Debug\Score.exe.config
+E:\SourceCode\Question\Score\bin\Debug\Score.exe
+E:\SourceCode\Question\Score\bin\Debug\Score.pdb
+E:\SourceCode\Question\ImportTool\bin\Debug\Score.exe.config
+E:\SourceCode\Question\ImportTool\obj\Debug\Score.exe
+E:\SourceCode\Question\ImportTool\obj\Debug\Score.pdb
